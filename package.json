@@ -20,6 +20,7 @@
     "watch:browsersync": "browser-sync start --server --files css/*.css *.html",
     "sassprefixer:sass": "node-sass --output-style expanded --source-map true -o css sass",
     "sassprefixer:autoprefixer": "autoprefixer-cli -o css/style.css css/style.css"
+    
   },
   "keywords": [],
   "author": "",
