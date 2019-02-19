@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Coiny");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Coiny', cursive;
+}
+
+.container {
+  max-width: 1200px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+.container__h1 {
+  font: 3em;
+  color: red;
+  font-weight: bolder;
+}
+
+.container__h2 {
+  font: 2em;
+  color: green;
+}
+
+.container__h3 {
+  font: 1em;
+  color: darkblue;
+  padding-top: 25px;
+}
+
+.container__p {
+  line-height: 30px;
+}
+
+.container__about {
+  font: 2.5em;
+  background-color: #ccc;
+}
+/*# sourceMappingURL=style.css.map */
